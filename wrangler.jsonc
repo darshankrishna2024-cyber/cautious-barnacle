@@ -1,0 +1,11 @@
+{
+  // Cloudflare Pages configuration for order-your-story
+  // https://developers.cloudflare.com/pages/configuration/
+  "name": "order-your-story",
+  "compatibility_date": "2024-12-30",
+  "compatibility_flags": ["nodejs_compat"],
+  "pages_build_output_dir": ".worker-next/assets",
+  "observability": {
+    "enabled": true
+  }
+}
